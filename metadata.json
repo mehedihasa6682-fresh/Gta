@@ -1,0 +1,6 @@
+{
+  "name": "Ghost City RP",
+  "description": "3D open-world GTA RP-inspired PWA with drivable vehicles, Rockford Hills streets, and live FiveM-style HUD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
